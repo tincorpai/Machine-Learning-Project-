@@ -1,2 +1,2 @@
-# Machine-Learning-Project-
+# Machine-Learning-Project
 List of Machine Learning Projects 
